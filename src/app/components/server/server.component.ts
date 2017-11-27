@@ -10,6 +10,7 @@ export class ServerComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log(`Something is happening...`);
   }
 
 }
